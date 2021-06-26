@@ -1,7 +1,7 @@
 #pragma once
 
 #undef TAPPING_TERM
-#define TAPPING_TERM 200
+#define TAPPING_TERM 1
 #define RETRO_TAPPING
 
 #undef TAPPING_TOGGLE
@@ -16,3 +16,5 @@
 
 #define RGB_DI_PIN D7
 #define RGBLED_NUM 16
+
+#define COMBO_COUNT 3
